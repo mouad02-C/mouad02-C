@@ -39,7 +39,7 @@ class Engineer {
 <summary><b>🎨 Frontend Frameworks & Libraries</b></summary>
 
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AngularJS](https://img.shields.io/badge/ANGULARJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULARJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 </details>
 
 <details open>
